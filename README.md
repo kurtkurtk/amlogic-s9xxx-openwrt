@@ -1,4 +1,7 @@
 # OpenWrt for Amlogic TV Boxes
+[![Build OpenWrt with official](https://github.com/kurtkurtk/amlogic-s9xxx-openwrt/actions/workflows/build-openwrt-with-official.yml/badge.svg)](https://github.com/kurtkurtk/amlogic-s9xxx-openwrt/actions/workflows/build-openwrt-with-official.yml)
+
+
 
 View Chinese description  |  [查看中文说明](README.cn.md)
 
